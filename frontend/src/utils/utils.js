@@ -1,1 +1,1 @@
-export const BACKEND_URL="http://localhost:4001/api/v1";
+export const BACKEND_URL="https://coursewebapp-4w1o.onrender.com/api/v1";
